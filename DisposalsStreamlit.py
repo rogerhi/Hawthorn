@@ -1,8 +1,8 @@
 
-""" from pip._internal import main as pipmain
+from pip._internal import main as pipmain
 
-pipmain(['install', "streamlit"])
-pipmain(['install', "plotly"]) """
+
+pipmain(['install', "plotly"]) 
 
 
 import streamlit as st
